@@ -1,5 +1,5 @@
 # scribber-dwloader
-This is a python script that connects to your email, searches for an [amazon kindle scribe] <https://www.amazon.com/Introducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing/dp/B09BS26B8B?th=1> notebook shared between the most recent mails and downloads it.
+This is a python script that connects to your email, searches for an [amazon kindle scribe](https://www.amazon.com/Introducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing/dp/B09BS26B8B?th=1) notebook shared between the most recent mails and downloads it.
 
 ## Files
 *main.py* : the one and only script file written on python.
